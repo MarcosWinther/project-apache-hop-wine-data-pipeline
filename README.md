@@ -8,7 +8,7 @@
 
 Bem-vindo ao projeto de **Pipeline de Dados de Vinho**! Este repositório demonstra, de forma prática, a construção de um pipeline ETL (Extract, Transform, Load) utilizando a poderosa ferramenta **Apache Hop**. O objetivo é processar, limpar e transformar dados relacionados a vinhos, preparando-os para análises futuras ou armazenamento estratégico. 🍾
 
-Este projeto foi desenvolvido como parte dos aprendizados adquiridos no curso **"Super Academia Engenharia de Dados - 9 cursos em 1"**, na plataforma **Udemy**, ministrado pelo mestre [Grimaldo Oliveira](https://www.linkedin.com/in/grimaldo/).
+Este projeto foi desenvolvido como parte dos aprendizados adquiridos no curso **"Super Academia Engenharia de Dados - 9 cursos em 1"**, na plataforma **[Udemy](https://www.udemy.com/)**, ministrado pelo professor [Grimaldo Oliveira](https://www.linkedin.com/in/grimaldo/).
 
 <br>
 
